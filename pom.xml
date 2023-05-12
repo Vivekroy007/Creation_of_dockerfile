@@ -86,6 +86,7 @@
 				</configuration>
 			</plugin>
 		</plugins>
+		<finalName>practice2</finalName>
 	</build>
 
 </project>
